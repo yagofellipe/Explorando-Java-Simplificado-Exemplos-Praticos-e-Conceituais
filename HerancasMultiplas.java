@@ -28,3 +28,7 @@ interface Voar {
 
     void reduzir (int velocidade);
 }
+
+/*
+Enquanto uma classe abstrata define o que algo é, uma interface define o que uma classe pode fazer.
+ */
