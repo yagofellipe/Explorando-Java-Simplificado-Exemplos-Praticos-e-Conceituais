@@ -1,5 +1,3 @@
-Claro, posso te ajudar a criar um texto sobre o que você estudou em Java! Vamos lá:
-
 ---
 
 # Estudos de Java Simplificado
